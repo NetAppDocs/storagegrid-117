@@ -174,3 +174,6 @@ homepage:
         url: https://docs.netapp.com/sgws-113/index.jsp
       - title: StorageGRID 11.2 documentation
         url: https://docs.netapp.com/sgws-112/index.jsp
+product-family:
+  name: StorageGRID documentation
+  repo: storagegrid-family
