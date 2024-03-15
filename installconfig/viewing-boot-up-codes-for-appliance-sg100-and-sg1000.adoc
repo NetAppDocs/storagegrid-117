@@ -95,4 +95,4 @@ StorageGRID is running.
 
 .Related information
 
-link:../installconfig/accessing-bmc-interface.html[Access BMC interface]
+link:../installconfig/accessing-bmc-interface.html[Access BMC interface] 
