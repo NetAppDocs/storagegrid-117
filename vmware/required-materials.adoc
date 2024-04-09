@@ -26,7 +26,7 @@ Before you install StorageGRID, you must gather and prepare required materials.
 |During installation, you use VMware vSphere Web Client to deploy virtual grid nodes on virtual machines. For supported versions, see the https://imt.netapp.com/matrix/#welcome[NetApp Interoperability Matrix Tool^].
 
 |Service laptop
-|The StorageGRID system is installed through a service laptopThe service laptop must have:
+|The StorageGRID system is installed through a service laptop. The service laptop must have:
 
 * Network port
 * SSH client (for example, PuTTY)
