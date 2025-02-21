@@ -1,5 +1,5 @@
 settings:
-  name: "StorageGRID 11.7"
+  name: "StorageGRID"
   search: "storagegrid-enable,storagegrid-117"
   downlevel: true
   internal:
@@ -22,7 +22,7 @@ settings:
       url: /storagegrid-115  
 sidebar:
   entries:
-    - title: StorageGRID 11.7 Docs
+    - title: StorageGRID 11.7 docs
       url: /index.html
     - title: Release notes
       url: "/release-notes/index.html"
