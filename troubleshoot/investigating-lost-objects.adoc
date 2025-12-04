@@ -9,7 +9,7 @@ summary: 'When the *Objects lost* alert is triggered, you must investigate immed
 :imagesdir: ../media/
 
 [.lead]
-When the *Objects lost* alert is triggered, you must investigate immediately. Collect information about the affected objects and contact technical support.
+When the Objects lost alert is triggered, you must investigate immediately. Collect information about the affected objects and contact technical support.
 
 .Before you begin
 * You must be signed in to the Grid Manager using a link:../admin/web-browser-requirements.html[supported web browser].
